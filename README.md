@@ -4,14 +4,16 @@ I am a systems engineering student. I'm passionate about networking, automation,
 
 ### 🔧 Technologies & Tools
 
-<img src="assets/typescript.svg" alt="TypeScript icon" height="50">
-<img src="assets/python.svg" alt="Python icon" height="50">
-<img src="assets/c.svg" alt="C icon" height="50">
-<img src="assets/gnubash.svg" alt="Bash icon" height="50">
-<img src="assets/docker.svg" alt="Docker icon" height="50">
-<img src="assets/ansible.svg" alt="Ansible icon" height="50">
+<div style="display: flex; gap: 10px;">
+    <img src="assets/typescript.svg" alt="TypeScript icon" height="50">
+    <img src="assets/python.svg" alt="Python icon" height="50">
+    <img src="assets/c.svg" alt="C icon" height="50">
+    <img src="assets/gnubash.svg" alt="Bash icon" height="50">
+    <img src="assets/docker.svg" alt="Docker icon" height="50">
+    <img src="assets/ansible.svg" alt="Ansible icon" height="50">
+</div>
 
-### 🌱 Currently Learning
+### 🌱 Currently learning...
 
 - Low-level stuff (operating systems and compilers)
 

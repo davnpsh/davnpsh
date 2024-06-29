@@ -1,22 +1,26 @@
-<!--
-**davnpsh/davnpsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi~
 
 I am a systems engineering student. I'm passionate about networking, automation, containers and virtualization. In my profile, you'll find repositories focusing on these topics as well as others that test random technologies.
 
 ### 🔧 Technologies & Tools
 
-<img src="assets/typescript.svg" alt="TypeScript icon" height="50" style="fill: #3178C6;">
+<img src="assets/typescript.svg" alt="TypeScript icon" height="50">
+<img src="assets/python.svg" alt="Python icon" height="50">
+<img src="assets/c.svg" alt="C icon" height="50">
+<img src="assets/gnubash.svg" alt="Bash icon" height="50">
+<img src="assets/docker.svg" alt="Docker icon" height="50">
+<img src="assets/ansible.svg" alt="Ansible icon" height="50">
+
+### 🌱 Currently Learning
+
+- Low-level stuff (operating systems and compilers)
+
+### 📫 How to reach me
+
+- 📧 Send me an e-mail: contact💀davnpsh💀dev (replace 💀 with @ and . respectively)
+
+I mirror all my repos to [Codeberg](https://codeberg.org/):
+
+<a href="https://codeberg.org/">
+    <img src="assets/codeberg.svg" alt="Codeberg logo" height="50">
+</a>

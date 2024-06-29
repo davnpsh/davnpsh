@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **davnpsh/davnpsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi~
+
+I am a systems engineering student. I'm passionate about networking, automation, containers and virtualization. In my profile, you'll find repositories focusing on these topics as well as others that test random technologies.
+
+### 🔧 Technologies & Tools
+
+<img src="assets/typescript.svg" alt="TypeScript icon" height="50" style="fill: #3178C6;">
